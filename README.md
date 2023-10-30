@@ -8,7 +8,7 @@ Then you want to create .env file and pass the "Private address"of your metamask
 
 You first need to compile the contract and upload it to the blockchain network. Run the following commands to compile and upload the contract.<br>
 
----script----<br>
+---script----
 npx hardhat compile
 npx hardhat run --network volta scripts/deploy.js
 ```
