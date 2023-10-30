@@ -10,7 +10,7 @@ You first need to compile the contract and upload it to the blockchain network. 
 
 ---script----
 npx hardhat compile
-npx hardhat run --network volta scripts/deploy.js
+npx hardhat run --network local scripts/deploy.js
 ```
 After deploying successful you want to add contract address in -> Constant/constant.js file
 
