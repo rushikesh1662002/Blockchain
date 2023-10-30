@@ -1,7 +1,7 @@
 ## Installation<br>
-Make sure you have install "Ganache" for free Ether<br>
-To clone the repository used command<br>
-git clone https://github.com/rushikesh1662002/Blockchain <br>
+Make sure you have install "Ganache" for free Ether<br><br>
+To clone the repository used command<br><br>
+git clone https://github.com/rushikesh1662002/Blockchain <br><br><br>
 After you cloned the repository, you want to install the packages using<br>
 ---script---<br>
 npm install
