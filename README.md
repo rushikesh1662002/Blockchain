@@ -1,7 +1,9 @@
-## Installation
-
-After you cloned the repository, you want to install the packages using
----script---
+## Installation<br>
+Make sure you have install "Ganache" for free Ether<br>
+To clone the repository used command<br>
+git clone https://github.com/rushikesh1662002/Blockchain <br>
+After you cloned the repository, you want to install the packages using<br>
+---script---<br>
 npm install
 ```
 Then you want to create .env file and pass the "Private address"of your metamask account.
